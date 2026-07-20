@@ -1,4 +1,4 @@
 # chat_ai
-# pembuat
--DEV-Message xauusd on WhatsApp. https://wa.me/6283108839093
+# modified by: R-dev
+Message xauusd on WhatsApp. https://wa.me/6283108839093
 
